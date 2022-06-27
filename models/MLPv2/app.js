@@ -2,7 +2,7 @@
 //let Layer = require('./Layer').Layer;
 
 // Exporting the function
-exports.Net = function (numberOfLayers) {
+exports.Model = function (numberOfLayers) {
 
 	this.currentId = Math.random();
 
